@@ -49,13 +49,13 @@ footer {
   background-color: rgb(244, 79, 79);
   text-align: center;
 }
-a.link {
-  color: rgb(255, 255, 255);
+footer a {
+  color: reg(255, 255, 255);
 }
-a:visited {
+footer a:visited {
   color: rgb(193, 234, 251);
 }
-a:hover {
+footer a:hover {
   color: rgb(245, 178, 168);
 }
 @media screen and (max-width: 768px) {
